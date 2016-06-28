@@ -23,6 +23,7 @@ public class TestMain {
 		for (String e : list) {
 			System.out.println("Employee NAME :" + e);
 			System.out.println("Employee NAME :" + e);
+			System.out.println("Employee NAME :" + e);
 		}
 
 		// Aggregate function
